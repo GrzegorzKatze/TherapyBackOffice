@@ -5,3 +5,11 @@ EmployeeModule/TherapyBackOffice_EmployeeModule.Infrastructure/obj/
 EmployeeModule/TherapyBackOffice_EmployeeModule/bin/
 EmployeeModule/TherapyBackOffice_EmployeeModule/obj/
 TherapyBackOffice_EmployeeModule.Domain/obj/
+EmployeeModule/TherapyBackOffice_EmployeeModule.Database/obj/
+*.user
+EmployeeModule/.vs/config/applicationhost.config
+EmployeeModule/TherapyBackOffice_EmployeeModule.Domain/bin/
+EmployeeModule/TherapyBackOffice_EmployeeModule.Domain/obj/
+*.dacpac
+EmployeeModule/TherapyBackOffice_EmployeeModule.Database/bin/
+EmployeeModule/
